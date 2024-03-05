@@ -1,4 +1,6 @@
-90 different animal calss images.
+**Animal Classification**
+
+There are 90 different animal class images.
 
 1. Dataset Preparation:
    - Organize the dataset for one-vs-rest classification. Perform binary classification using existing architectures and then restructure for 5-class classification. Use 3-fold cross-validation to assess the model.
@@ -12,3 +14,5 @@
 
 4. Convolutional Layer Visualization:
    - Plot the output of all convolutional layers and discuss the insights on automatically created features.
+  
+   Submission for the same is made on Kaggle, original notebook file can be viewed upon: "https://www.kaggle.com/janamapatel/animal-classification/"
